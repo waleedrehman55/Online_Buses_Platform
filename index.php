@@ -92,7 +92,7 @@
       <swiper-slide class="mx-4">
         <div class="card">
           <div class="card-image">
-            <img src="https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg" class="card-img-top" alt="Bus Image">
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/052/073/395/small_2x/a-modern-bus.jpg" class="card-img-top" alt="Bus Image">
           </div>
           <div class="card-body">
             <h5 class="card-title">Hiace - Lahore</h5>
@@ -108,7 +108,7 @@
       <swiper-slide class="mx-5">
         <div class="card">
           <div class="card-image">
-            <img src="https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg" class="card-img-top" alt="Bus Image">
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/052/073/395/small_2x/a-modern-bus.jpg" class="card-img-top" alt="Bus Image">
           </div>
           <div class="card-body">
             <h5 class="card-title">Hiace - Lahore</h5>
@@ -132,19 +132,13 @@
     </div>
     <swiper-container class="mySwiper2" navigation="true" loop="true" space-between="20" slides-per-view="3">
       <swiper-slide>
-        <div class="event_banner_main">
-          <img src="https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg" class="card-img-top" alt="Event 1">
-        </div>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/052/073/395/small_2x/a-modern-bus.jpg" class="card-img-top" alt="Event 1">
       </swiper-slide>
       <swiper-slide>
-        <div class="event_banner_main">
-          <img src="https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg" class="card-img-top" alt="Event 1">
-        </div>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/052/073/395/small_2x/a-modern-bus.jpg" class="card-img-top" alt="Event 2">
       </swiper-slide>
       <swiper-slide>
-        <div class="event_banner_main">
-          <img src="https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg" class="card-img-top" alt="Event 1">
-        </div>
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/052/073/395/small_2x/a-modern-bus.jpg" class="card-img-top" alt="Event 3">
       </swiper-slide>
     </swiper-container>
   </section>
