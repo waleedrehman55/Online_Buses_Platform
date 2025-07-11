@@ -386,3 +386,55 @@ body {
   opacity: 1;
 }
 
+ .view-btn-events {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding: 14px 60px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #E93C3C;
+    background: #fff;
+    border: 1px solid #E93C3C;
+    cursor: pointer;
+    transition: color 0.4s ease;
+  }
+
+.view-btn-events::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: #E93C3C;
+  z-index: 1;
+  transition: transform 0.4s ease;
+  transform: translateY(100%);
+}
+
+.view-btn-events:hover::after {
+  transform: translateY(0);
+}
+
+.view-btn-events span {
+  position: relative;
+  z-index: 2;
+  transition: color 0.4s ease;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.view-btn-events:hover span {
+  color: #fff;
+}
+
+.event_banner_main{
+  border-radius: 50px;
+}
+.event_banner_main img{
+  border-radius: 20px;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
